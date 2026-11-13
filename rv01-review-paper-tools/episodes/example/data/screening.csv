@@ -1,0 +1,8 @@
+# title: Screening: the tool flags, you decide
+# note: Green = tool. Amber = you.
+Stage,What happens,Who
+Keyword flag,"pass, fail, no abstract, out of years, wrong type",[g]Tool
+Clear failures,"Set aside only when you run screen with --apply; counted separately in PRISMA",[y]You choose
+Title and abstract,"include, exclude or maybe",[y]You
+Numbering,"P001, P002 ... never renumbered",[g]Tool
+Full text,"include or exclude, with a written reason; or not retrieved",[y]You

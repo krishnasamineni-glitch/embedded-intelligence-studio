@@ -1,0 +1,10 @@
+# lexicon_api.txt - pronunciation fixes for voice_api.py (cloud voices already know most words, so keep this short).
+# Format:  word in the script = how it should be spoken.  The episode's lexicon.txt is applied on top.
+IEEE=I triple E
+DOI=D O I
+DOIs=D O Is
+PDF=P D F
+PDFs=P D Fs
+CSV=C S V
+tiab=T I A B
+TITLE-ABS-KEY=title, abstract, key

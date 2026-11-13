@@ -1,0 +1,5 @@
+# title: One logic, two syntaxes
+# note: Example topic. Other databases (IEEE Xplore, Web of Science...) follow the same logic with their own field tags; the tool reads their exports too.
+Database,Field tag,Example
+PubMed,[tiab],"(""stacked patch""[tiab] OR ""multilayer antenna""[tiab]) AND (isolation[tiab] OR decoupling[tiab])"
+Scopus,TITLE-ABS-KEY(),"TITLE-ABS-KEY(""stacked patch"" OR ""multilayer antenna"") AND TITLE-ABS-KEY(isolation OR decoupling)"

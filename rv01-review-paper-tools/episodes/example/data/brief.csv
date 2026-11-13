@@ -1,0 +1,11 @@
+# title: The brief file for the AI
+# note: The tool creates this file for you in 07_draft/review_brief.md. You fill the blanks.
+Section,What you write
+Role and task,"Review type; you draft, I decide"
+Target,"Journal, abstract length, total length, cite only with paper tags"
+Research questions,"RQ1, RQ2 ..."
+Section plan,"Introduction, Methods, Results, Discussion, Future directions, Conclusion"
+Main vs supplementary,"Main papers to analyse; supplementary papers for background only"
+Analysis rules,"Only what the paper says; write ""not reported"" otherwise; paraphrase"
+Figures,List the figures I should draw myself
+Output format,"Plain text with headings; open questions at the end"

@@ -1,0 +1,9 @@
+# title: Where the PDFs go
+# note: Names look like P012_Kumar_2021.pdf. The list of missing papers is rewritten every time you run pdfmatch.
+Folder,What goes there
+05_pdfs/inbox,Everything you download; any file name
+05_pdfs/journal,Matched journal papers; renamed
+05_pdfs/conference,Matched conference papers; renamed
+05_pdfs/duplicates,Extra copies of a paper already matched
+05_pdfs/unmatched,Files the tool could not identify
+05_pdfs/missing_pdfs.csv,Papers you still need to download

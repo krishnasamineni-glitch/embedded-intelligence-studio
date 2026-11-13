@@ -1,0 +1,11 @@
+# title: Review paper in eight steps
+# note: Green = the tool does it. Amber = you decide. The AI is a helper only.
+Step,What happens,Tool
+1. Plan,"Question, concepts, rules",[y]You (AI: synonym ideas)
+2. Search,"PubMed, Scopus...; log the string",[y]You
+3. Import,"One table, duplicates removed",[g]import / dedupe
+4. Screen,"Flags, your decisions, P001...",[g]screen / number
+5. PDFs,"Ten tabs at a time; open access first",[g]access / batches / tabs / pdfmatch
+6. Pack,"Brief + small Word parts",[g]pack
+7. Cite,"[P012] tags become references",[g]cite
+8. Revise,"Comments become the next prompt",[g]comments

@@ -1,0 +1,5 @@
+# title: Export each database into its own folder
+# note: Write down for each search: database, date, exact string, number of hits. Check the record limit in each export dialog and export in chunks if needed.
+Database,Export as,Save in
+PubMed,"Save, format PubMed (.txt)",01_exports/pubmed
+Scopus,"CSV with abstracts",01_exports/scopus

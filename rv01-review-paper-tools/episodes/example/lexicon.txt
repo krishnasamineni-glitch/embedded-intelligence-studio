@@ -1,0 +1,6 @@
+# Episode-specific pronunciation fixes (added on top of ../../lexicon_en.txt)
+tiab=T I A B
+TITLE-ABS-KEY=title abstract keyword
+P001=P zero zero one
+P012=P zero twelve
+TS=T S

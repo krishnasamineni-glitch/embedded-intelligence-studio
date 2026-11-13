@@ -1,0 +1,8 @@
+# title: The revision loop
+# note: Save each round as a new file: draft_v01.docx, draft_v02.docx ...
+Step,What you do,What the tool does
+1,"Read the draft; highlight and comment in Word",
+2,Save as the next version,[g]slr.py cite checks the tags
+3,Run comments,[g]Collects comments and highlights into a revision prompt
+4,Give the prompt and the draft to the AI,
+5,Read the result; repeat,

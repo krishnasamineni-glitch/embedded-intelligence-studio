@@ -1,0 +1,7 @@
+# title: How duplicates are found
+# note: The most complete copy is kept, and every source database is remembered.
+Order,Rule,Result
+1,Same DOI,[g]Merged
+2,Same title and year,[g]Merged
+3,"Very close title, same first author, year within one",[g]Merged
+4,Different DOIs (preprint vs published),[y]Not merged: you decide in dedupe_review.csv

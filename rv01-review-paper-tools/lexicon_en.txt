@@ -1,0 +1,19 @@
+# lexicon_en.txt — English narration pronunciation fixes.
+# Format:  word in the script = how the voice model should read it.  Whole words only; longer entries first is automatic.
+# The subtitles keep the original word. Listen to the result, then adjust by ear: respell the word the way you want it spoken.
+PubMed=Pub Med
+PRISMA=Priz-muh
+Scopus=Sko-pus
+IEEE=I triple E
+WoS=Web of Science
+DOI=D O I
+DOIs=D O Is
+PDF=P D F
+PDFs=P D Fs
+RIS=R I S
+HTML=H T M L
+CSV=C S V
+Unpaywall=Un pay wall
+Crossref=Cross ref
+OpenAlex=Open Alex
+ICMJE=I C M J E

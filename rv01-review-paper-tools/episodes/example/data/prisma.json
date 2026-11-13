@@ -1,0 +1,5 @@
+{"example": true,
+ "identified": {"PubMed": 412, "Scopus": 688},
+ "duplicates": 160, "automation_excluded": 90, "screened": 850, "excluded_ta": 735, "sought": 115, "not_retrieved": 7,
+ "assessed": 108, "excluded_ft": {"Not an antenna design": 38, "Frequency out of range": 27, "No isolation data": 12, "Not peer reviewed": 5},
+ "included": 26}
